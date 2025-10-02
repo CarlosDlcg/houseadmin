@@ -91,6 +91,7 @@ houseadmin/
 - Los templates deben configurarse en `TEMPLATES` en `settings.py`
 - Para implementar CRUD se necesita modificar `views.py`, `urls.py` y los templates
 - Revisar la implementación de autenticación en las vistas
+- Para archivos estáticos se añade en settings.py además del linkeo
 
 ## 📚 Recursos
 
